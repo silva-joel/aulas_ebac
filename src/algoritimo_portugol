@@ -1,0 +1,32 @@
+algoritmo "Rotina Matinal"
+var
+    // Não é necessário declarar variáveis para este exemplo
+
+inicio
+    // Passo 1: Ouço o despertador tocar
+    escrever("Ouço o despertador tocar")
+
+    // Passo 2: Abro os olhos
+    escrever("Abro os olhos")
+
+    // Passo 3: Desligo o despertador
+    escrever("Desligo o despertador")
+
+    // Passo 4: Levanto da cama
+    escrever("Levanto da cama")
+
+    // Passo 5: Ando até o banheiro
+    escrever("Ando até o banheiro")
+
+    // Passo 6: Escovo os dentes
+    escrever("Escovo os dentes")
+
+    // Passo 7: Ligo a cafeteira
+    escrever("Ligo a cafeteira")
+
+    // Passo 8: Sirvo o café no meu copo
+    escrever("Sirvo o café no meu copo")
+
+    // Passo 9: Bebo o café
+    escrever("Bebo o café")
+fimalgoritmo
